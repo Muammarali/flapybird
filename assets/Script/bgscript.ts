@@ -6,9 +6,7 @@ export class Background extends Component {
 
     @property({ type: Node })
     private parentBackground: Node;
-
     
-
     @property({ type: Prefab })
     private prefabPipa: Prefab;
 
